@@ -1,1 +1,41 @@
 This the first starting file
+System can understad only programming languages
+befor learning we should know these terms:
+
+Identifier
+Literal
+Keywords
+
+Variable: The name given to memory location
+RAM: Randam Access Memory (Temperory area)
+ROM: Read Only Memory (Permanent area)
+
+Variables stroing under temporary area(RAM)
+Variables can be used any number of times till the program ends
+
+Literal: any data is called as Literal
+String name="chandra"; //String Literal
+
+Data types: which speficies what data you want to hold
+Keyword: The meaning already know by the compiler Ex: int, char, ...
+
+Compiler: Source code(Highlevel programing language) -> complier(source code into Machine code) -> Run
+Souce code: whatever we are writing the java program
+
+Two types of data types:
+
+Primitive               Reference
+byte                    String
+short
+int
+long
+float
+double
+char
+boolean
+
+byte accepts the data in the form of zero's and one's
+1 byte (8 bits)
+
+Reserved words or Keywords
+all keywords in small letters
