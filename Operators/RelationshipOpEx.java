@@ -24,6 +24,11 @@ class RelationshipOpEx
         System.out.print("10<=20 :");
         System.out.println(a<=b);
 
+        // if you want to hold true or false values we go with boolean data type
+
+        boolean c;
+        c=a>b;
+        System.out.println(c);
         
 
     }
